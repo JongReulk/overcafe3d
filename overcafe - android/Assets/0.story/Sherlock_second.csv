@@ -1,0 +1,19 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.Sherlock_Second.6.,,It's time for Sherlock to come.,(Es ist Zeit für Sherlock zu kommen.),셜록이 올 시간이다.
+SAY.Sherlock_Second.8.Sherlock,,"Espresso, please.",Espresso bitte.,"에스프레소, 부탁해."
+SAY.Sherlock_Second.14.,,(gave him a espresso),(gab ihm einen Espresso),(그에게 에스프레소를 주었다)
+SAY.Sherlock_Second.9.Sherlock,,"Even today, it's good.",Noch heute ist es gut.,오늘도 맛있군.
+SAY.Sherlock_Second.10.Sherlock,,It's a new murder.,Es ist ein neuer Mord.,새로운 살인사건이구만.
+SAY.Sherlock_Second.16.Sherlock,,"Well, interesting...","Nun, interessant ...","음, 흥미로운걸..."
+SAY.Sherlock_Second.17.Sherlock,,I need to go quickly and check it out.,Ich muss schnell gehen und es überprüfen.,빨리 가서 직접 확인해야겠군.
+SAY.Sherlock_Second.18.Sherlock,,"By the way, I've been here so many times,","Ich war übrigens schon so oft hier,","그건 그렇고, 난 여기에 많이 왔는데,"
+SAY.Sherlock_Second.19.Sherlock,,but I've never formally introduced myself.,aber ich habe mich nie offiziell vorgestellt.,공식적으로 나를 소개 한 적이 없군.
+SAY.Sherlock_Second.20.Sherlock,,"The name's Sherlock Holmes,","Der Name ist Sherlock Holmes,","이름은 셜록 홈즈,"
+SAY.Sherlock_Second.21.Sherlock,,and the address is 221B Baker Street,und die Adresse lautet 221B Baker Street,주소는 베이커 가 221B번지라네.
+SAY.Sherlock_Second.25.Sherlock,,"If you are bored or have trouble these days,","Wenn Sie sich heutzutage langweilen oder Probleme haben,",요즘 지루하거나 고민이 있다면
+SAY.Sherlock_Second.74.Sherlock,,please come to the address there.,Bitte kommen Sie zu der dortigen Adresse.,거기 주소로 오게나.
+MENU.Sherlock_Second.75,,Get Business Cards,Holen Sie sich Visitenkarten,명함 받기
+MENU.Sherlock_Second.76,,Don't accept business cards,Akzeptiere keine Visitenkarten,명함 받지 않기
+SAY.Sherlock_Second.79.Sherlock,,You are always welcome.,Du bist immer willkommen.,자네는 언제나 환영일세.
+SAY.Sherlock_Second.85.Sherlock,,Then I'll come again next time.,Dann komme ich nächstes Mal wieder.,그럼 다음에 또 오겠네.
+CHARACTER.Sherlock,,Sherlock,Sherlock,셜록

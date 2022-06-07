@@ -1,0 +1,19 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.SecondTrevor.1.Trevor,,"50 egg toast, please!","50 Eier Toast, bitte!",계란 토스트 50 개 주세요!
+SAY.SecondTrevor.2.Trevor,,"Oh, have you ever wondered why I always buy a lot of toast?","Oh, hast du dich jemals gefragt, warum ich immer viel Toast kaufe?",혹시 왜 제가 항상 토스트를 많이 사는지 궁금한 적이 있으신가요?
+SAY.SecondTrevor.75.Trevor,,"Actually, I'm a pilot. ",Eigentlich bin ich Pilot.,"사실, 저는 조종사입니다."
+SAY.SecondTrevor.76.Trevor,,"As I was walking through the streets,","Als ich durch die Straßen ging,","거리를 걷다가,"
+SAY.SecondTrevor.77.Trevor,,"the smell of toast came out, ","der Geruch von Toast kam heraus,","토스트 냄새가 나서,"
+SAY.SecondTrevor.78.Trevor,,"so I bought toast for my pilot colleagues, ","Also kaufte ich Toast für meine Pilot kollegen,",그래서 파일럿 동료들을 위해 토스트를 샀는데
+SAY.SecondTrevor.79.Trevor,,and they all said it was delicious.,"und alle sagten, es sei köstlich.",모두 맛있다고 하더군요.
+SAY.SecondTrevor.101.Trevor,,They all really enjoyed eating toast.,"Sie alle genossen es wirklich, Toast zu essen.",그들 모두 토스트 먹는 것을 정말로 즐겼습니다.
+SAY.SecondTrevor.102.Trevor,,"Since then, I have been buying them regularly here.",Seitdem kaufe ich sie hier regelmäßig.,그 이후로 이곳에서 정기적으로 구매하고 있습니다.
+SAY.SecondTrevor.103.Trevor,,The toast here is really good!,Der Toast hier ist wirklich gut!,여기 토스트가 정말 맛있어요!
+SAY.SecondTrevor.80.Trevor,,"By the way, do you like airplanes?",Magst du übrigens Flugzeuge?,"그건 그렇고, 혹시 비행기 좋아하세요?"
+MENU.SecondTrevor.81,,"Of course, I like airplanes.",Natürlich mag ich Flugzeuge.,물론이죠! 비행기 좋아합니다.
+MENU.SecondTrevor.82,,I don't like airplanes very...,Ich mag Flugzeuge nicht sehr ...,별로 좋아하지 않습니다..
+SAY.SecondTrevor.85.Trevor,,"Oh, you like it.","Oh, du magst es.","오, 좋아하시는군요."
+SAY.SecondTrevor.86.Trevor,,Then come visit me later.,Dann komm später zu mir.,나중에 한번 놀러오세요
+SAY.SecondTrevor.93.Trevor,,"Oh, you don't like it.","Oh, du magst es nicht.","아, 안 좋아하시는군요."
+SAY.SecondTrevor.94.Trevor,,I'll come back to get the toast later.,"Ich werde später zurückkommen, um den Toast zu holen.",나중에 토스트 가지러 오겠습니다.
+CHARACTER.Trevor,,Trevor,Trevor,트레버

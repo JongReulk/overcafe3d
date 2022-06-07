@@ -1,0 +1,33 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.Sherlock_First.6.,,"Okay, 30 minutes left until the cafe opens.","Okay, noch 30 Minuten, bis das Café öffnet.","좋아, 카페 오픈까지 30 분 남았군."
+SAY.Sherlock_First.8.???,,"I'm sorry, but I have to go quickly.","Es tut mir leid, aber ich muss schnell gehen.",미안하지만 빨리 가야 해서요.
+SAY.Sherlock_First.9.???,,Could you just give me a cup of espresso quickly?,Könnten Sie mir schnell eine Tasse Espresso geben?,에스프레소 한 잔만 빨리 주시겠어요?
+SAY.Sherlock_First.10.,,yes,Ja,예
+SAY.Sherlock_First.14.,,(gave him a espresso),(gab ihm einen Espresso),(그에게 에스프레소를 주었다)
+SAY.Sherlock_First.16.???,,This... espresso... It's really good.,Dieser ... Espresso ... ist wirklich gut.,이… 에스프레소… 정말 맛있군..
+SAY.Sherlock_First.17.???,,It's exactly what I want..,"Es ist genau das, was ich will..",내가 정확히 원하던 맛이야..
+SAY.Sherlock_First.18.???,,What's the secret......,Was ist das Geheimnis......,비밀이 뭘까…
+SAY.Sherlock_First.19.???,,Are coffee beans something special..?,Sind Kaffeebohnen etwas Besonderes..?,커피 콩이 뭔가 특별한가..?
+SAY.Sherlock_First.20.???,,"or, 
+Is there any secret in this cafe..?","oder,
+Gibt es ein Geheimnis in diesem Café?","아니면,
+이 카페에 비밀이 ..? "
+SAY.Sherlock_First.21.???,,I'll have to try it again later,Ich muss es später noch einmal versuchen.,나중에 다시 먹어봐야겠군
+SAY.Sherlock_First.25.,,(??),(??),(??)
+SAY.Sherlock_First.33.,,I need to prepare to close the cafe.,"(Ich muss mich darauf vorbereiten, das Café zu schließen.)",카페 닫을 준비를 해야겠다
+SAY.Sherlock_First.34.???,,Wait ... wait a minute…,Warte ... warte eine Minute ...,잠깐 ... 잠깐만 …
+SAY.Sherlock_First.36.???,,"Just a cup of espresso, please...","Nur eine Tasse Espresso, bitte ...",에스프레소 한잔만 부탁합니다...
+SAY.Sherlock_First.37.???,,"Oh, cupcakes too.","Oh, Cupcakes auch","아, 컵 케이크도."
+SAY.Sherlock_First.38.,,(gave him a espresso and cupcake),(gab ihm einen Espresso und Cupcake),(그에게 에스프레소와 컵 케이크를 주었다)
+SAY.Sherlock_First.53.???,,All day thinking about the secrets of this espresso..,Den ganzen Tag über die Geheimnisse dieses Espressos nachdenken..,하루 종일 이 에스프레소의 비밀을 생각하느라..
+SAY.Sherlock_First.54.???,,I couldn't concentrate...,Ich konnte mich nicht konzentrieren ...,집중을 못했군...
+SAY.Sherlock_First.39.???,,cupcake.. this is also good..,Cupcake .. das ist auch gut ..,컵 케이크 .. 이것도 맛있군..
+SAY.Sherlock_First.40.,,(Someone shouts),(Jemand schreit),(누군가 소리친다)
+SAY.Sherlock_First.41.???,,"Come out quickly, we gotta go","Komm schnell raus, wir müssen gehen","빨리 나와, 가야 해"
+SAY.Sherlock_First.42.???,,(Pretend not to hear) What is the secret of this espresso...,"(Geben Sie vor, nicht zu hören) Was ist das Geheimnis dieses Espressos ...",(듣지 못한 척) 이 에스프레소의 비결은 ...
+SAY.Sherlock_First.45.???,,"Come on, Sherlock, what are you doing?","Komm schon, Sherlock, was machst du?","어서, 셜록, 뭐하는거야?"
+SAY.Sherlock_First.47.???,,"This time, we have to go really fast.",Dieses Mal müssen wir sehr schnell gehen.,이번에는 정말 빨리 가야해.
+SAY.Sherlock_First.49.Sherlock,,"All right, all right, let's go.","Alles klar, alles klar, lass uns gehen.","알겠어, 알겠다고, 가자"
+SAY.Sherlock_First.50.,,"Since then, Sherlock has always come to eat espresso before or after the opening of the cafe.","Seitdem ist Sherlock immer gekommen, um vor oder nach der Eröffnung des Cafés Espresso zu essen.",그 이후로 셜록은 카페 개장 전후에 항상 에스프레소를 먹으러 왔다.
+CHARACTER.???,,???,???,???
+CHARACTER.Sherlock,,Sherlock,Sherlock,셜록

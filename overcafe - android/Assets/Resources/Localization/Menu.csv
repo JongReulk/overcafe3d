@@ -1,0 +1,66 @@
+Key,English,German,Japanese,Korean
+Menu.Title,Menu,Menü,メニュー,메뉴
+Menu.Start,Start,Anfang,開始, 시작
+Menu.NewGame,New game,Neues Spiel,新しいゲーム, 새 게임
+Menu.Continue,Continue,Fortsetzen,継続する, 이어서
+Menu.Settings,Setting,Einstellungen,設定, 설정
+Menu.Quit,Quit,Verlassen,終了, 종료
+Menu.Special,Special Menu,Spezielles Menü,スペシャルメニュー, 스페셜 메뉴
+Menu.Doughnut,Doughnut,Krapfen,ドーナツ,도넛
+Menu.Cupcake,Cupcake,Becherkuchen,カップケーキ,컵케이크
+Menu.Cookie,Cookie,Kekse,クッキー,쿠키
+Menu.CheeseCake,Cheese Cake, Käsekuchen, チーズケーキ, 치즈케이크
+Menu.Toast,Toast,Toast,トースト,토스트
+Menu.Macaron,Macaron,Makrone,マカロン,마카롱
+Menu.Sure?,Data will be deleted. Are you sure?, Daten werden gelöscht. Bist du sicher?, データは削除されます。本気ですか？, 데이터가 삭제됩니다. 계속 하시겠습니까?
+Menu.TapScreen,TAP SCREEN TO BEGIN, Tippen Sie auf den Bildschirm um zu beginnen, 画面をタップして開始します, 시작하시려면 화면을 탭하세요
+Menu.Croissant,Croissant,Croissant,クロワッサン, 크루아상
+Menu.Oven,Oven,Ofen,オーブン,오븐
+Menu.Mochapotcoffee,Moka pot coffee, Moka Kanne Kaffee, モカポットコーヒー, 모카 포트 커피
+Menu.Mochapot,Moka pot, Moka Topf, モカポット, 모카 포트
+Menu.CherryCupcakeSet,Cherry Cupcake Set,Kirsch Cupcake Set,チェリーカップケーキセット,체리 컵 케이크 세트
+Menu.OreoCupcakeSet,Oreo Cupcake Set, Oreo Cupcake Set,オレオカップケーキセット, 오레오 컵케이크 세트
+Menu.Croissanttomato,Croissant and tomato, Croissant und Tomate,クロワッサンとトマト,크루아상과 토마토
+Menu.BlackDoughnutSet,Black Doughnut Set,Schwarzes Donut-Set,黒ドーナツセット,블랙 도넛 세트
+Menu.PinkDoughnutSet,Pink Doughnut Set,Pink Donut-Set,ピンクドーナツセット,핑크 도넛 세트
+Menu.WhiteDoughnutSet,White Doughnut Set,Weißer Donut-Satz,ホワイトドーナツセット, 화이트 도넛 세트
+Menu.Tea,Tea,Tee,お茶,차
+Menu.TeaPot,Tea Pot,Teekanne,ティーポット,차 주전자
+Menu.Pan,Pan,Pfanne,パン,팬
+Menu.EggToast,Egg Toast, Eiertoast, 卵トースト, 에그 토스트
+Menu.EggToastSet,Egg Toast Set, Eier Toast Set, 卵トーストセット, 에그 토스트 세트
+Menu.CookieSet,Cookie set,Cookie-Set,クッキーセット,쿠키 세트
+Menu.CherryToast,Cherry Toast, Kirschtoast, チェリートースト, 체리 토스트
+Menu.CherryToastSet,Cherry Toast Set, Kirschtoast gesetzt, チェリートーストセット, 체리 토스트 세트
+Menu.Microwave,Microwave,Mikrowelle,電子レンジ,전자레인지
+Menu.StrawberryToast,Strawberry Toast, Erdbeertoast, いちごトースト, 딸기 토스트
+Menu.EggOliveToast,Egg and Olive Toast,Ei und Oliventoast, 卵とオリーブのトースト, 계란과 올리브 토스트
+Menu.OrangeToast,Orange Toast,Orange Toast,オレンジトースト,오렌지 토스트
+Menu.CookieTeaOrangeToastSet,Cookie Orange Toast Set,Cookie Orange Toast Set,クッキーオレンジトーストセット,쿠키 오렌지 토스트 세트
+Menu.CookieTeaOliveToastSet,Cookie Olive Toast Set,Cookie Olive Toast Set,クッキーオリーブトーストセット,쿠키 올리브 토스트 세트
+Menu.BlueberryCheesecakeSet, Blueberry Cheesecake Set, Heidelbeer-Käsekuchen-Set,ブルーベリーチーズケーキセット,블루베리 치즈케이크 세트
+Menu.BlueberryStrawberrycake, Two pieces of Cheesecake, Zwei Stücke Käsekuchen,チーズケーキ2個,치즈케이크 두 조각
+Menu.BlueberryStrawberrycakeSet, Set of two pieces of cheesecake, Set aus zwei Stück Käsekuchen,チーズケーキ2個セット,치즈케이크 두 조각 세트
+Menu.Threecake, Three pieces of Cheesecake, Drei Stücke Käsekuchen,チーズケーキ3個,치즈케이크 세 조각
+Menu.ThreecakeSet,Set ofThree pieces of Cheesecake, Set mit drei Stück Käsekuchen,チーズケーキ3個セット,치즈케이크 세 조각 세트
+Menu.Stage1,Stage1,Level1,ステージ1,스테이지1
+Menu.Stage2,Stage2,Level2,ステージ2,스테이지2
+Menu.Stage3,Stage3,Level3,ステージ3,스테이지3
+Menu.Stage4,Stage4,Level4,ステージ4,스테이지4
+Menu.StageExplain,Please select a Stage!, Wählen Sie ein Level aus!,ステージをお選びください！,스테이지를 선택하십시오!
+Menu.FinalStage,Final Stage!!,letzte Stufe,最終段階,마지막 스테이지
+Menu.click,Click!!,klicken!!,クリック！!, 클릭!!
+Menu.Yeah,Yeahhhh !!, Yeahhhh !!,うん !!, 예에에에에 !!
+Menu.Clear,All Clear !!,Alles klar !!,オールクリア !!, 모두 클리어 !! 
+Menu.SecretTip,"Touch a certain place many times !!
+(Example: Opening and closing the door)", "Berühre einen bestimmten Ort viele Male !!
+(Beispiel: Tür öffnen und schließen)","ある場所を何度も触る!!
+（例：ドアの開閉","특정 장소를 여러 번 터치 !!
+(예 : 문 열기 및 닫기)"
+Menu.more,little bit more.., ein bisschen mehr.., もう少し.., 조금만 더..
+Menu.Cheer,Let's cheer up!!!, Lass uns uns aufmuntern!!!, 元気を出しましょう!!!, 힘냅시다 !!!
+
+
+
+
+

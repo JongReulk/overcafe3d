@@ -1,0 +1,16 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.Ani_first.1.???,,...,…,…
+SAY.Ani_first.3.???,,... ...,… …,… …
+SAY.Ani_first.4.???,,... ... ...,… … …,… … …
+SAY.Ani_first.6.,,(looks hungry),(Sieht hungrig aus),(배고파 보인다)
+SAY.Ani_first.14.???,,...,…,…
+SAY.Ani_first.15.???,,Do..,Do..,도..
+SAY.Ani_first.16.???,,Do...nut..,Do..nut..,도..넛..
+SAY.Ani_first.22.,,(gave her a donut and juice),(gab ihr einen Donut und Saft),(그녀에게 도넛과 주스를 주었다)
+SAY.Ani_first.23.???,,!!,!!,!!
+SAY.Ani_first.24.???,,Thanks!!,Vielen Dank!!,고마워!!
+SAY.Ani_first.25.Annie,,(Eating a donut) My name is Annie!!,(Donuts essen) Mein Name ist Annie!,(도넛을 먹으며) 내 이름은 애니야!
+SAY.Ani_first.26.,,"Since then, Annie has visited our cafe several times,","Seitdem hat Annie das Café mehrmals besucht,","그 이후로 애니는 카페를 여러 번 방문했는데,"
+SAY.Ani_first.27.,,"I gave Annie a donut every time, and we became close.",Ich gab Annie jedes Mal einen Donut und kam mir nahe.,나는 매번 애니에게 도넛을 줬고 친해지게 되었다.
+CHARACTER.Annie,,Annie,Annie,애니
+CHARACTER.???,,???,???,???

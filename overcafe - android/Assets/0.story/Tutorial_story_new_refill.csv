@@ -1,0 +1,47 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.Flowchart.1.Alice,,Hello.,Hallo.,안녕하세요.
+SAY.Flowchart.3.Alice,,"My name is Alice, who will be ordered by your grandfather to help you.","Mein Name ist Alice, die von Ihrem Großvater beauftragt wird, Ihnen zu helfen.",저는 할아버님의 부탁을 받고 당신을 도울 엘리스라고 합니다.
+SAY.Flowchart.4.Alice,,"There is so much to learn, so let's go inside the cafe.","Es gibt so viel zu lernen, also lass uns ins Caf? gehen.",배워야 할 것이 너무 많으니 카페 안으로 빨리 들어가 보시죠!
+SAY.Flowchart.8.Alice,,It's a cupcake order!,Es ist eine Cupcake-Bestellung!,컵 케이크 주문입니다!
+SAY.Flowchart.11.Alice,,Touch the cupcake to bring it up ,"Ber?hre den Cupcake, um ihn aufzurufen",컵 케이크를 터치하여 가져오십시오.
+SAY.Flowchart.10.Alice,,and click the order table to make the order successful.,"und klicken Sie auf die Bestellungstabelle, um die Bestellung erfolgreich zu machen.",그리고 주문표를 클릭하여 주문을 완료하세요.
+SAY.Flowchart.20.Alice,,"To delete items, simply touch the slot and click the trash can.","Um Elemente zu l?schen, ber?hren Sie einfach den Steckplatz und klicken Sie auf den Papierkorb.",음식을 없애려면 슬롯을 터치하고 휴지통을 클릭하면 됩니다. 
+SAY.Flowchart.15.Alice,,"You have completed your order, Good job!","Sie haben Ihre Bestellung abgeschlossen, gute Arbeit!",주문을 완료하셨습니다. 잘하셨습니다!
+SAY.Flowchart.16.Alice,,"Depending on how fast you do it, you can get more tips.","Je nachdem, wie schnell Sie es tun, k?nnen Sie weitere Tipps erhalten.",주문완료 속도에 따라 더 많은 팁을 얻을 수 있습니다.
+SAY.Flowchart.17.Alice,,Let's wait for the next order.,Warten wir auf die n?chste Bestellung.,다음 주문을 기다려보죠!
+SAY.Flowchart.23.Alice,,It's the espresso order.,Es ist die Espresso-Bestellung.,에스프레소 주문입니다.
+SAY.Flowchart.24.Alice,,Touch the espresso machine.,Ber?hren Sie die Espressomaschine.,에스프레소 기계를 터치하세요.
+SAY.Flowchart.25.Alice,,"Then the machine works, you can touch and get coffee after a while.","Dann funktioniert die Maschine, Sie k?nnen nach einer Weile ber?hren und Kaffee holen.","그러면 기계가 작동될 것이고, 시간이 조금 지나면 커피를 터치하여 가져올 수 있습니다."
+SAY.Flowchart.26.Alice,,Try it yourself!,Versuch es selber!,직접 해보세요!
+SAY.Flowchart.31.Alice,,"Oh, It's the Toast order.","Oh, es ist die Toast-Bestellung.","아, 토스트 주문입니다."
+SAY.Flowchart.32.Alice,,Touch the Toast.,Ber?hre den Toast.,토스트를 클릭하세요.
+SAY.Flowchart.33.Alice,,"Then the toast will enter the microwave, and the machine will run.",Dann tritt der Toast in die Mikrowelle ein und die Maschine l?uft.,그러면 토스트가 전자레인지 안에 들어가고 전자레인지가 작동될 것입니다.
+SAY.Flowchart.34.Alice,,"After some time, you can bring your toast by clicking on the microwave.","Nach einer Weile k?nnen Sie Ihren Toast bringen, indem Sie auf die Mikrowelle klicken.",시간이 지나면 전자레인지를 클릭하여 토스트를 가져올 수 있으실겁니다.
+SAY.Flowchart.36.Alice,,"Be careful because if microwave breaks down or if it's too late, the toast can burn!","Seien Sie vorsichtig, denn wenn die Mikrowelle ausf?llt oder es zu sp?t ist, kann der Toast brennen!",전자레인지가 고장 나거나 너무 늦게 꺼내면 토스트가 타버릴 수 있으니 조심하세요!
+SAY.Flowchart.40.Alice,,And that's it!,Und das ist es!,여기까지입니다!
+SAY.Flowchart.41.Alice,,"There are various items in the cafe, ","Es gibt verschiedene Gegenst?nde im Caf?,",카페에는 다양한 종류의 식품들이 있습니다.
+SAY.Flowchart.42.Alice,,"such as things to heat, cook, and drink.","wie heizen, kochen und trinken.","데우는 식품, 요리하는 식품, 음료 등이요."
+SAY.Flowchart.43.Alice,,Complete the orders that come in line with each and grow your cafe.,Vervollst?ndigen Sie die entsprechenden Bestellungen und erweitern Sie Ihr Caf?.,각각의 주문을 완료하고 카페를 성장 시키세요.
+SAY.Flowchart.44.Alice,,"By the way, if you continue to succeed in ordering, you will get more combos and tips!","?brigens, wenn Sie weiterhin erfolgreich bestellen, erhalten Sie mehr Combos und Tipps!",덧붙여서 주문을 실패없이 계속 완료하면 더 많은 콤보와 팁을 얻을 수 있습니다! 
+SAY.Flowchart.46.Alice,,"If you work hard, you may have a special guest, Good Luck!","Wenn Sie hart arbeiten, haben Sie vielleicht einen besonderen Gast, Good Luck!",열심히 일하면 특별한 손님이 올 수도 있습니다. 행운을 빕니다!
+SAY.Flowchart.51.Alice,,Welcome to {$cafename}!\n,Willkommen bei {$cafename},{$cafename} 에 오신 것을 환영합니다!
+SAY.Flowchart.52.Alice,,Looks like the order is coming in.,Sieht aus wie die Bestellung kommt.,주문이 들어오는 것 같습니다.
+SAY.Flowchart.53.Alice,,"Now, let's start.",Jetzt fangen wir an.,"자, 시작해볼까요"
+SAY.Flowchart.58.Alice,,Select Language,W?hle eine Sprache,언어를 선택하세요
+MENU.Flowchart.59,,English,Englisch,영어
+MENU.Flowchart.62,,German,Deutsche,독일어
+MENU.Flowchart.61,,Korean,Koreanisch,한글
+SAY.Flowchart.81.Alice,,Touch the cupcakes!,Ber?hre die Cupcakes!,컵 케이크를 터치하세요!
+SAY.Flowchart.87.Alice,,Touch the Espresso Machine!,Ber?hren Sie die Espressomaschine!,에스프레소 머신을 터치하세요!
+SAY.Flowchart.91.Alice,,Touch the Toast!,Ber?hre den Toast!,토스트를 터치하세요!
+SAY.Flowchart.102.,,Please Enter your cafe name. (Up to 9 characters),Bitte geben Sie Ihren Caf?namen ein. (Bis zu 9 Zeichen),카페 이름을 입력하세요. (최대 9글자까지)
+,,,,
+,,,,
+SAY.Flowchart.119.Alice,,The language can be changed again in the settings.,Die Sprache kann in den Einstellungen erneut ge?ndert werden.,언어는 설정에서 다시 변경할 수 있습니다.
+SAY.Flowchart.100.,,You entered: {$cafename},,
+WRITE.Flowchart.99,,,,
+SAY.Flowchart.106.,,"{$cafename} , Is this right?","{$cafename} , Ist das richtig?","{$cafename} , 맞습니까?"
+MENU.Flowchart.109,,Yes,Ja,예
+MENU.Flowchart.110,,No,Nein,아니오
+CHARACTER.Alice,,Alice,Alice,엘리스
+SAY.Flowchart.124.Alice,,Ah! Food is refilled by pressing the yellow cone,Ah! Das Essen wird durch Dr?cken des gelben Kegels nachgef?llt,아! 노란색 꼬깔을 누르면 음식이 다시 리필됩니다

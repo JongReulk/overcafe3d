@@ -1,0 +1,11 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.FirstTrevor.1.Trevor,,"Hello, I'm Trevor.","Hallo, ich bin Trevor.","안녕하세요, 저는 트레버입니다."
+SAY.FirstTrevor.3.Trevor,,Please reserve 50 toasts under my name.,Bitte reservieren Sie 50 Toasts unter meinem Namen.,제 이름으로 토스트 50개 예약 해주세요.
+SAY.FirstTrevor.2.Trevor,,I'll come to pick it up later.,"Ich werde sp?ter kommen, um es abzuholen.",나중에 가지러 오겠습니다.
+SAY.FirstTrevor.4.,,yes,ja,예
+SAY.FirstTrevor.29.Trevor,,"Hello, are the toasts ready?","Hallo, sind die Toasts fertig?","안녕하세요, 토스트 준비 됐나요?"
+SAY.FirstTrevor.37.,,(said yes),ja,예
+SAY.FirstTrevor.30.Trevor,,"Thank you, very much",Vielen Dank,정말 감사합니다.
+SAY.FirstTrevor.38.,,"After that, Trevor often came to the cafe and bought a lot of toast.",Danach kam Trevor oft in Caf?s und kaufte viel Toast.,그 후 트레버는 종종 카페에 와서 토스트를 많이 사갔다.
+SAY.FirstTrevor.40.,,And became a regular customer. ,Und wurde Stammkunde.,그리고 단골 손님이 되었다.
+CHARACTER.Trevor,,Trevor,Trevor,트레버

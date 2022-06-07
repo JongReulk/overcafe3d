@@ -1,0 +1,9 @@
+﻿Key,Description,Standard,GER,KOR
+SAY.NewProduct.1.Alice,,Long time no see! You are doing well!,Lange nicht gesehen! Du machst das gut!,오랜만입니다! 잘하시고 계시는 군요!
+SAY.NewProduct.2.Alice,,"As we saw before, the set menu comes out from stage 1-6","Wie wir zuvor gesehen haben, kommt das Set von Stufe 1-6 heraus",앞에서 본 것처럼 1-6 스테이지부터 세트 메뉴가 나옵니다
+SAY.NewProduct.3.Alice,,The set menu is completed by bringing the food on the left and the items on the right.,"Das Set wird vervollständigt, indem das Essen links und die Gegenstände rechts gebracht werden.",세트 메뉴는 왼쪽에있는 음식과 오른쪽에있는 항목을 가져 와서 완성할 수 있습니다.
+SAY.NewProduct.5.Alice,,"For example, for a set of cherry cupcakes, bring the cherry cupcakes first, then take the espresso to complete the set.","Bringen Sie zum Beispiel für einen Satz Kirschcupcakes zuerst die Kirschcupcakes mit und nehmen Sie dann den Espresso, um den Satz zu vervollständigen.","예를 들어, 체리 컵 케이크 세트의 경우 체리 컵 케이크를 먼저 가져온 다음 에스프레소를 가져와 세트를 완성합니다."
+SAY.NewProduct.6.Alice,,The same goes for the Oreo Cupcake Set!,Gleiches gilt für das Oreo Cupcake Set!,오레오 컵케이크 세트도 마찬가지입니다!
+SAY.NewProduct.4.Alice,,cheer up!,aufheitern!,힘내세요!
+SAY._CommandCopyBuffer.5.Alice,,"For the Cherry Cupcake Set, bring the Cherry Cupcake first and then the espresso to complete the set.",,
+CHARACTER.Alice,,Alice,Alice,엘리스
